@@ -19,7 +19,7 @@
 ## 👋 About Me
 
 > **Startup-minded engineer** who takes products from idea to customer delivery.  
-> 5+ years building at startups, currently pursuing MS CS at Syracuse University.  
+> 5+ years building at startups, MS CS at Syracuse University.  
 > I love working close to founders, shipping fast, and owning the full stack.
 
 <br/>
